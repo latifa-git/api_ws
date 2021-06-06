@@ -1,0 +1,11 @@
+.site-card-border-less-wrapper {
+    padding: 30px;
+    background: #ececec;
+
+  }
+  .card{
+      display: flex; 
+      align-content: space-between ;
+      justify-content: space-around;
+      flex-wrap: wrap;
+  }
